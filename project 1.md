@@ -5,3 +5,4 @@ step 2 — installing mysql
 step 3 — installing php
 step 4 — creating a virtual host for your website using apache
 step 5 — enable php on the websit
+PROJECT 1: 
